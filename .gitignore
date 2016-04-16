@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build/
+*.iml
+node_modules/
+dist/
+.tmp/
+.sass-cache/
+bower_components/
+node-*-x86/
+node-*-x64/
